@@ -1,0 +1,404 @@
+canonical_identifier: bkk:krp/KR3ei072/jc/v1
+canonical_location: https://kanripo.org/bkk/KR3ei072/jc/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 宜麟策
+  identifiers:
+    krp: KR3ei072
+  tags:
+    kr-categories: KR3ei
+    tls-dates: dat04210
+  source:
+    repository: tls-texts
+    path: data/tls/KR3ei072.xml
+  edition:
+    short: jc
+assets:
+  parts:
+  - {seq: 0, filename: KR3ei072_000-jc.yaml, hash: 'sha256:15e996ab4a7c2a76942d6919c75d0317333faacd378fc605753af50c5e27da84'}
+  markers:
+  - {seq: 0, role: markers, filename: assets/KR3ei072_000-jc.markers.yaml, hash: 'sha256:495321a82ec0756311cec9e2a5a3dc236ee178c0e56870e72cc58299a6cbbbea'}
+table_of_contents:
+- ref:
+    seq: 0
+    marker_id: KR3ei072_jc_000-d2.h1s1
+    span:
+    - body
+    - 0
+    - 321
+  label: 總論
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3ei072_jc_000-d3.h1s1
+    span:
+    - body
+    - 321
+    - 589
+  label: 時氣天時一
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3ei072_jc_000-d4.h1s1
+    span:
+    - body
+    - 589
+    - 893
+  label: 陰陽天時二
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3ei072_jc_000-d5.h1s1
+    span:
+    - body
+    - 893
+    - 1097
+  label: 地利地利一
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3ei072_jc_000-d6.h1s1
+    span:
+    - body
+    - 1097
+    - 1579
+  label: 基址地利二
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3ei072_jc_000-d7.h1s1
+    span:
+    - body
+    - 1579
+    - 2298
+  label: 十機人事一
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3ei072_jc_000-d8.h1s1
+    span:
+    - body
+    - 2298
+    - 3085
+  label: 附小產論
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3ei072_jc_000-d9.h1s1
+    span:
+    - body
+    - 3085
+    - 3575
+  label: 蓄妾人事二
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3ei072_jc_000-d10.h1s1
+    span:
+    - body
+    - 3575
+    - 3681
+  label: 藥食論方
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3ei072_jc_000-d11.h1s1
+    span:
+    - body
+    - 3681
+    - 3840
+  label: 飲食戒飲
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3ei072_jc_000-d12.h1s1
+    span:
+    - body
+    - 3840
+    - 4028
+  label: 男病疾病一
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3ei072_jc_000-d13.h1s1
+    span:
+    - body
+    - 4028
+    - 4248
+  label: 女病疾病二
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3ei072_jc_000-d14.h1s1
+    span:
+    - body
+    - 4248
+    - 4968
+  label: 附衍慶編調經至言
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3ei072_jc_000-d15.h1s1
+    span:
+    - body
+    - 4968
+    - 5701
+  label: 辨古
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3ei072_jc_000-d16.h1s1
+    span:
+    - body
+    - 5701
+    - 14380
+  label: 續篇
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3ei072_jc_000-d16d2
+    span:
+    - body
+    - 5703
+    - 5773
+  label: 大意
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3ei072_jc_000-d16d3
+    span:
+    - body
+    - 5773
+    - 6324
+  label: 乾道蓄德一
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3ei072_jc_000-d16d4
+    span:
+    - body
+    - 6324
+    - 6703
+  label: 坤道蓄德二
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3ei072_jc_000-d16d5
+    span:
+    - body
+    - 6703
+    - 7042
+  label: 精血盛衰之驗培原一
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3ei072_jc_000-d16d6
+    span:
+    - body
+    - 7042
+    - 7513
+  label: 聚精之道有五培原二
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3ei072_jc_000-d16d7
+    span:
+    - body
+    - 7513
+    - 8076
+  label: 葆真為種子首務培原三
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3ei072_jc_000-d16d8
+    span:
+    - body
+    - 8076
+    - 8205
+  label: 藥忌燥熱培原四
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3ei072_jc_000-d16d9
+    span:
+    - body
+    - 8205
+    - 8377
+  label: 色戒男淫培原五
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3ei072_jc_000-d16d10
+    span:
+    - body
+    - 8377
+    - 8587
+  label: 合男女必當其年布種一
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3ei072_jc_000-d16d11
+    span:
+    - body
+    - 8587
+    - 9293
+  label: 百脈齊到則孕成布種二
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3ei072_jc_000-d16d12
+    span:
+    - body
+    - 9293
+    - 9568
+  label: 種子須知絪縕之時布種三
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3ei072_jc_000-d16d13
+    span:
+    - body
+    - 9568
+    - 9713
+  label: 娠子論胎教一
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3ei072_jc_000-d16d14
+    span:
+    - body
+    - 9713
+    - 10459
+  label: 逐月養胎胎教二
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3ei072_jc_000-d16d15
+    span:
+    - body
+    - 10459
+    - 11169
+  label: 胎教邇言胎教三
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3ei072_jc_000-d16d16
+    span:
+    - body
+    - 11169
+    - 11770
+  label: 保孕六說胎教四
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3ei072_jc_000-d16d17
+    span:
+    - body
+    - 11770
+    - 11861
+  label: 防磋跌胎教五
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3ei072_jc_000-d16d18
+    span:
+    - body
+    - 11861
+    - 11916
+  label: 忌多浴胎教六
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3ei072_jc_000-d16d19
+    span:
+    - body
+    - 11916
+    - 12235
+  label: 論胎肖胎教七
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3ei072_jc_000-d16d20
+    span:
+    - body
+    - 12235
+    - 12338
+  label: 修造犯胎不足信胎教八
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3ei072_jc_000-d16d21
+    span:
+    - body
+    - 12338
+    - 12587
+  label: 轉女為男之理胎教九
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3ei072_jc_000-d16d22
+    span:
+    - body
+    - 12587
+    - 12766
+  label: 孕婦飲食忌胎教十
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3ei072_jc_000-d16d23
+    span:
+    - body
+    - 12766
+    - 12859
+  label: 孕婦藥物忌胎教十一
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3ei072_jc_000-d16d24
+    span:
+    - body
+    - 12859
+    - 14380
+  label: 附保命延生戒期
+  type: section
+  level: 2
+hash: sha256:286e57018ce290dab584fc8643f95512227a3552fae8a6b5a92f48d546f6898b
