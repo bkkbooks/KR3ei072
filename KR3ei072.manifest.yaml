@@ -17,9 +17,9 @@ metadata:
     short: bkk
 assets:
   parts:
-  - {seq: 0, filename: KR3ei072_000.yaml, hash: 'sha256:34621a7c48b9fb1709ad979ec5859b43cc0e8e29c591228dbb4a027eb7f46095'}
+  - {seq: 0, filename: KR3ei072_000.yaml, hash: 'sha256:15e996ab4a7c2a76942d6919c75d0317333faacd378fc605753af50c5e27da84'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR3ei072_000.markers.yaml, hash: 'sha256:8731ed3475d841650ff9d85125e79f013232b0272524961b5f9a24b70a2b9c67'}
+  - {seq: 0, role: markers, filename: assets/KR3ei072_000.markers.yaml, hash: 'sha256:fcb328debefb960f0a56e92a64f07dbcd0e30eb9c0514a950fa75ba2ba1f4c22'}
 table_of_contents:
 - ref:
     seq: 0
@@ -401,7 +401,4 @@ table_of_contents:
   label: 附保命延生戒期
   type: section
   level: 2
-hash: sha256:7d04117a22f7bd5a4696afaf56d7e391d7a3247d0a029c180ebd3b5b1b70b0b7
-mappings:
-- canonical_identifier: bkk:mapping/variant-fold-v1
-  hash: sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e
+hash: sha256:904899db2e5a976feed7a2e2d5c623d3c9ce82f267cf267f9e7e6453b1c5fb8c
