@@ -2,7 +2,7 @@ canonical_identifier: bkk:krp/KR3ei072/v1
 canonical_location: https://kanripo.org/bkk/KR3ei072/v1
 canonical_set:
   identifier: bkk:charset/cjk-v1
-  hash: sha256:7cf5854f9b7b99617990762b56ca5289dd34e1992baf324bb7716157d9a4b2ee
+  hash: sha256:37995e65f5e6cdc8cfbc980fea50ec86663e3e7de950809f7e37f003754b3227
 metadata:
   title: 宜麟策
   identifiers:
@@ -17,9 +17,9 @@ metadata:
     short: bkk
 assets:
   parts:
-  - {seq: 0, filename: KR3ei072_000.yaml, hash: 'sha256:15e996ab4a7c2a76942d6919c75d0317333faacd378fc605753af50c5e27da84'}
+  - {seq: 0, filename: KR3ei072_000.yaml, hash: 'sha256:48764e45ddc6c275fb56c77df44d0916106facd837e1c5b11789b7f0a01c4ec1'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR3ei072_000.markers.yaml, hash: 'sha256:fcb328debefb960f0a56e92a64f07dbcd0e30eb9c0514a950fa75ba2ba1f4c22'}
+  - {seq: 0, role: markers, filename: assets/KR3ei072_000.markers.yaml, hash: 'sha256:5fba73dca477b57fc71af9c46124c850be25cc52a20c97ec9202c737fbb6cf36'}
 table_of_contents:
 - ref:
     seq: 0
@@ -401,4 +401,7 @@ table_of_contents:
   label: 附保命延生戒期
   type: section
   level: 2
-hash: sha256:904899db2e5a976feed7a2e2d5c623d3c9ce82f267cf267f9e7e6453b1c5fb8c
+hash: sha256:89757e8172a9c06a5de9548f39806cb7e1a144511e7e899771676c3d518358df
+mappings:
+- canonical_identifier: bkk:mapping/variant-fold-v1
+  hash: sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20
