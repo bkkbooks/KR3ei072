@@ -19,7 +19,7 @@ assets:
   parts:
   - {seq: 0, filename: KR3ei072_000-jc.yaml, hash: 'sha256:15e996ab4a7c2a76942d6919c75d0317333faacd378fc605753af50c5e27da84'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR3ei072_000-jc.markers.yaml, hash: 'sha256:495321a82ec0756311cec9e2a5a3dc236ee178c0e56870e72cc58299a6cbbbea'}
+  - {seq: 0, role: markers, filename: assets/KR3ei072_000-jc.markers.yaml, hash: 'sha256:45c2560dd438891d95f762382fd1cb094dc34bbcf0b21a73a2db58fb737ed560'}
 table_of_contents:
 - ref:
     seq: 0
@@ -401,4 +401,4 @@ table_of_contents:
   label: 附保命延生戒期
   type: section
   level: 2
-hash: sha256:286e57018ce290dab584fc8643f95512227a3552fae8a6b5a92f48d546f6898b
+hash: sha256:b867263b33fd0cc8f97e8b60e07c68a36614aea98c7f1438a2af9f99de613dc4
